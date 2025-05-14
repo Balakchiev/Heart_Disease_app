@@ -8,7 +8,7 @@ import joblib
 # ----------------------------------------
 model = joblib.load("model_pro.pkl")
 
-scaler = joblib.load("model_pro.pkl")
+scaler = joblib.load("scaler_pro.pkl")
 
 
 # ----------------------------------------
