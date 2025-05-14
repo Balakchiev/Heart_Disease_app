@@ -6,9 +6,9 @@ import joblib
 # ----------------------------------------
 # 🧠 Load the real trained model and scaler
 # ----------------------------------------
-model = joblib.load("C:/Users/beats/PycharmProjects/Heart_Disease_App/model_pro.pkl")
+model = joblib.load("model_pro.pkl")
 
-scaler = joblib.load("C:/Users/beats/PycharmProjects/Heart_Disease_App/model_pro.pkl")
+scaler = joblib.load("model_pro.pkl")
 
 
 # ----------------------------------------
